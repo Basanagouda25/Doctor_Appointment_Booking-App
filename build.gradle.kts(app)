@@ -1,3 +1,4 @@
 implementation("com.github.kittinunf.fuel:fuel:2.3.1") //for http request get,post etc..
 implementation("com.github.kittinunf.fuel:fuel-android:2.2.0") //for handling API's
 implementation("com.github.kittinunf.fuel:fuel-gson:2.3.1") //for json file
+implementation("com.github.ismaeldivita:chip-navigation-bar:1.4.0") //provides bottom navigation bar in chip style
